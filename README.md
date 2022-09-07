@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caner Eğin</h1>
-<h3 align="center">I am a Full Stack developer. As a Full Stack Developer, I research, learn and implement new languages independent of the programming language. The project was developed using Java and React in enterprise architecture. I continue to develop and develop on the React side. All the repositories I have published are explained in detail.</h3>
+<h3 align="center">I am a Full Stack developer. As a Full Stack Developer, I research, learn and implement new languages independent of the programming language. The project was developed using Java and React in enterprise architecture. I continue to develop on the React side. All the repositories I have published are explained in detail.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caneregin&label=Profile%20views&color=0e75b6&style=flat" alt="caneregin" /> </p>
 
