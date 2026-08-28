@@ -1,1 +1,1 @@
-![GitHub Streak](https://streak-stats.demolab.com/?user=caneregin)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caneregin)
